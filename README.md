@@ -1,4 +1,16 @@
-# Student Performance Analysis 📊
+## Visualizations
+
+### Math Score Distribution
+![Math Distribution](math_distribution.png)
+
+### Gender Comparison
+![Gender](gender_comparison.png)
+
+### Test Preparation Impact
+![Test Prep](test_prep.png)
+
+### Correlation Heatmap
+![Correlation](correlation.png)# Student Performance Analysis 📊
 
 ## Overview
 A data science project analyzing factors that affect student exam scores using Python and Machine Learning.
