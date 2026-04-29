@@ -40,4 +40,3 @@ A data science project analyzing factors that affect student exam scores using P
 
 ## Author
 Isaac Karanja — KCA University, Data Science
-Analyzing factors affecting student exam scores using Python, data visualization and machine learning
