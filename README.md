@@ -39,5 +39,5 @@ A data science project analyzing factors that affect student exam scores using P
 - Average Prediction Error: 7.35 points
 
 ## Author
-Isaac Karanja — KCA University, Data Science# student-performance-analysis
+Isaac Karanja — KCA University, Data Science
 Analyzing factors affecting student exam scores using Python, data visualization and machine learning
